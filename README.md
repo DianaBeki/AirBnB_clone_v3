@@ -157,6 +157,6 @@ No known bugs at this time.
 Gina Beki - [Github](https://github.com/ginabeki)  
 Diana Beki - [Github](https://github.com/DianaBeki)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
